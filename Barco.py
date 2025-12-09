@@ -7,7 +7,7 @@ class Barco:
 
    def recibir_impacto(self):
        self.golpes_recibidos += 1
-
+#mamalo
 
    def esta_hundido(self):
        return self.golpes_recibidos == self.longitud
