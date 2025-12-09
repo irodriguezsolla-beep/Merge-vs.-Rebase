@@ -26,3 +26,5 @@ if __name__ == "__main__":
    print(buque.esta_hundido())
    buque.recibir_impacto()
    print(buque.esta_hundido())
+
+   .
