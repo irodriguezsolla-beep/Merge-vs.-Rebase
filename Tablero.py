@@ -6,7 +6,7 @@ class Tablero:
     def mostrar_tablero(self):
         for fila in self.casillas:
             print(fila)
-
+:)
 
 if __name__ == "__main__":
     tablero = Tablero(5)
