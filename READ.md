@@ -36,3 +36,7 @@ lanzamos git merge origin/main en la terminal.
 12)User 2 (Sincroniza): Sube su cambio a GitHub (usando VCS -> Git -> Push en PyCharm).
 
 13)User 1 (Descarga y Reestructura): User 1 quiere un historial lineal y utiliza rebase para mover su commit encima del de User 2: git pull --rebase
+
+14)User 1 (Sube): User 1 sube su historial reestructurado a GitHub (usando VCS -> Git -> Push en PyCharm).
+
+15)User 2 actualiza con: git pull --rebase
